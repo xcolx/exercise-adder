@@ -1,0 +1,13 @@
+{
+  "name": "exercise-adder",
+  "version": "1.0.0",
+  "description": "Local admin tool that finds missing exercises for Gym 2.0 with the claude CLI and creates them on gym2.app",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
